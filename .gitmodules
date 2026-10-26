@@ -1,0 +1,60 @@
+[submodule "wordcraft"]
+	path = wordcraft
+	url = https://github.com/abdallah-shehawey/wordcraft.git
+	branch = codex/window-state-restoration
+[submodule "egui"]
+	path = egui
+	url = https://github.com/abdallah-shehawey/egui.git
+	branch = codex/window-restoration-and-controls
+[submodule "filmcraft"]
+	path = filmcraft
+	url = https://github.com/abdallah-shehawey/filmcraft.git
+	branch = codex/window-state-restoration
+[submodule "lightcraft"]
+	path = lightcraft
+	url = https://github.com/abdallah-shehawey/lightcraft.git
+	branch = codex/persistent-interface-size
+[submodule "craft-launcher"]
+	path = craft-launcher
+	url = https://github.com/abdallah-shehawey/craft-launcher.git
+	branch = codex/persistent-interface-size
+[submodule "photocraft"]
+	path = photocraft
+	url = https://github.com/abdallah-shehawey/photocraft.git
+	branch = codex/window-state-restoration
+[submodule "pdfcraft"]
+	path = pdfcraft
+	url = https://github.com/abdallah-shehawey/pdfcraft.git
+	branch = codex/window-state-restoration
+[submodule "deckcraft"]
+	path = deckcraft
+	url = https://github.com/abdallah-shehawey/deckcraft.git
+	branch = codex/window-state-restoration
+[submodule "gridcraft"]
+	path = gridcraft
+	url = https://github.com/abdallah-shehawey/gridcraft.git
+	branch = codex/window-state-restoration
+[submodule "soundcraft"]
+	path = soundcraft
+	url = https://github.com/abdallah-shehawey/soundcraft.git
+	branch = codex/window-state-restoration
+[submodule "effectcraft"]
+	path = effectcraft
+	url = https://github.com/abdallah-shehawey/effectcraft.git
+	branch = codex/window-state-restoration
+[submodule "designcraft"]
+	path = designcraft
+	url = https://github.com/abdallah-shehawey/designcraft.git
+	branch = codex/window-state-restoration
+[submodule "vectorcraft"]
+	path = vectorcraft
+	url = https://github.com/abdallah-shehawey/vectorcraft.git
+	branch = codex/window-state-restoration
+[submodule "figcraft"]
+	path = figcraft
+	url = https://github.com/abdallah-shehawey/figcraft.git
+	branch = codex/window-state-restoration
+[submodule "cadcraft"]
+	path = cadcraft
+	url = https://github.com/abdallah-shehawey/cadcraft.git
+	branch = codex/window-state-restoration

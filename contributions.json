@@ -1,0 +1,96 @@
+{
+  "updated": "2026-10-26",
+  "status": "in progress",
+  "repositories": {
+    "egui": {
+      "fork": "https://github.com/abdallah-shehawey/egui",
+      "commit": "ba04bd7de66afaba82fd44aa235aa1d060559ee7",
+      "pull_request": "https://github.com/storytold/egui/pull/3",
+      "validation": "submitted"
+    },
+    "wordcraft": {
+      "fork": "https://github.com/abdallah-shehawey/wordcraft",
+      "commit": "e0d3c29d65bf9675ea22866c8d6298728c64856c",
+      "pull_request": "https://github.com/storytold/wordcraft/pull/4369",
+      "validation": "submitted"
+    },
+    "filmcraft": {
+      "fork": "https://github.com/abdallah-shehawey/filmcraft",
+      "commit": "7d8dd5ae782e85c34ddd824a673ffe2adf744c1f",
+      "pull_request": null,
+      "validation": "in progress"
+    },
+    "lightcraft": {
+      "fork": "https://github.com/abdallah-shehawey/lightcraft",
+      "commit": "522beb0c3e6a8521c8298c16209f7db3d84d2608",
+      "pull_request": null,
+      "validation": "in progress"
+    },
+    "craft-launcher": {
+      "fork": "https://github.com/abdallah-shehawey/craft-launcher",
+      "commit": "6c5f5ea2f5186cefe35797ddacd7d8a866ae2eeb",
+      "pull_request": null,
+      "validation": "in progress"
+    },
+    "photocraft": {
+      "fork": "https://github.com/abdallah-shehawey/photocraft",
+      "commit": "5bb853654196eca807212ff8955ba2eb293071ea",
+      "pull_request": null,
+      "validation": "in progress"
+    },
+    "pdfcraft": {
+      "fork": "https://github.com/abdallah-shehawey/pdfcraft",
+      "commit": "13bfbd0761e0cbd6abee19093901ea3b012a1e7d",
+      "pull_request": null,
+      "validation": "in progress"
+    },
+    "deckcraft": {
+      "fork": "https://github.com/abdallah-shehawey/deckcraft",
+      "commit": "9d23ff97b2088ed5b75c9871ceb8d5ebbb91606a",
+      "pull_request": null,
+      "validation": "in progress"
+    },
+    "gridcraft": {
+      "fork": "https://github.com/abdallah-shehawey/gridcraft",
+      "commit": "0870b1ad1c78f7c83f8983172dda78437a0d9faa",
+      "pull_request": null,
+      "validation": "in progress"
+    },
+    "soundcraft": {
+      "fork": "https://github.com/abdallah-shehawey/soundcraft",
+      "commit": "0197e27fc41ead385783fde4b21090f995e5bb5b",
+      "pull_request": null,
+      "validation": "in progress"
+    },
+    "effectcraft": {
+      "fork": "https://github.com/abdallah-shehawey/effectcraft",
+      "commit": "f35634a4eca5d46f1a10c217c2583942e4703a9e",
+      "pull_request": null,
+      "validation": "in progress"
+    },
+    "designcraft": {
+      "fork": "https://github.com/abdallah-shehawey/designcraft",
+      "commit": "18246dddd2c9af3bd062b0e69781a040b34ff9b2",
+      "pull_request": null,
+      "validation": "in progress"
+    },
+    "vectorcraft": {
+      "fork": "https://github.com/abdallah-shehawey/vectorcraft",
+      "commit": "3f8d7a0c5a54dab4879918375b3955b8d060cdc5",
+      "pull_request": null,
+      "validation": "in progress"
+    },
+    "figcraft": {
+      "fork": "https://github.com/abdallah-shehawey/figcraft",
+      "commit": "d27061036f9710d86ce39704d1090ebc2c4c8704",
+      "pull_request": null,
+      "validation": "in progress"
+    },
+    "cadcraft": {
+      "fork": "https://github.com/abdallah-shehawey/cadcraft",
+      "commit": "004287d91908ae304c665b605c5c6d06df762a3e",
+      "pull_request": null,
+      "validation": "in progress"
+    }
+  }
+}
