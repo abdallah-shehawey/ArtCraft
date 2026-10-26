@@ -2,7 +2,7 @@
 
 This hub groups my Craft App Suite forks using Git submodules. Each project keeps its own history and upstream pull requests.
 
-**Work in progress:** WordCraft and the shared egui fixes are submitted. The remaining app changes are undergoing local validation before their contribution commits and pull requests are published. Submodules for those apps currently point to their checked-out upstream base commits.
+**Work in progress:** submitted contributions link to their exact commits and upstream PRs. The remaining app changes are undergoing validation; their submodules still point to the checked-out upstream base commits.
 
 | Fork | Pinned commit | Contribution |
 | --- | --- | --- |
@@ -10,7 +10,7 @@ This hub groups my Craft App Suite forks using Git submodules. Each project keep
 | [wordcraft](https://github.com/abdallah-shehawey/wordcraft) | [e0d3c29d](https://github.com/abdallah-shehawey/wordcraft/commit/e0d3c29d65bf9675ea22866c8d6298728c64856c) | [Upstream PR](https://github.com/storytold/wordcraft/pull/4369) |
 | [filmcraft](https://github.com/abdallah-shehawey/filmcraft) | [7d8dd5ae](https://github.com/abdallah-shehawey/filmcraft/commit/7d8dd5ae782e85c34ddd824a673ffe2adf744c1f) | Local validation in progress |
 | [lightcraft](https://github.com/abdallah-shehawey/lightcraft) | [522beb0c](https://github.com/abdallah-shehawey/lightcraft/commit/522beb0c3e6a8521c8298c16209f7db3d84d2608) | Local validation in progress |
-| [craft-launcher](https://github.com/abdallah-shehawey/craft-launcher) | [6c5f5ea2](https://github.com/abdallah-shehawey/craft-launcher/commit/6c5f5ea2f5186cefe35797ddacd7d8a866ae2eeb) | Local validation in progress |
+| [craft-launcher](https://github.com/abdallah-shehawey/craft-launcher) | [0aaf1095](https://github.com/abdallah-shehawey/craft-launcher/commit/0aaf10955cd488d1e768c5cca873f98f63f6583a) | [Upstream PR](https://github.com/storytold/craft-launcher/pull/904) |
 | [photocraft](https://github.com/abdallah-shehawey/photocraft) | [5bb85365](https://github.com/abdallah-shehawey/photocraft/commit/5bb853654196eca807212ff8955ba2eb293071ea) | Local validation in progress |
 | [pdfcraft](https://github.com/abdallah-shehawey/pdfcraft) | [13bfbd07](https://github.com/abdallah-shehawey/pdfcraft/commit/13bfbd0761e0cbd6abee19093901ea3b012a1e7d) | Local validation in progress |
 | [deckcraft](https://github.com/abdallah-shehawey/deckcraft) | [9d23ff97](https://github.com/abdallah-shehawey/deckcraft/commit/9d23ff97b2088ed5b75c9871ceb8d5ebbb91606a) | Local validation in progress |

@@ -28,9 +28,9 @@
     },
     "craft-launcher": {
       "fork": "https://github.com/abdallah-shehawey/craft-launcher",
-      "commit": "6c5f5ea2f5186cefe35797ddacd7d8a866ae2eeb",
-      "pull_request": null,
-      "validation": "in progress"
+      "commit": "0aaf10955cd488d1e768c5cca873f98f63f6583a",
+      "pull_request": "https://github.com/storytold/craft-launcher/pull/904",
+      "validation": "submitted"
     },
     "photocraft": {
       "fork": "https://github.com/abdallah-shehawey/photocraft",
