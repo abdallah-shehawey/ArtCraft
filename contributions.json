@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29",
+  "updated": "2026-10-30",
   "repositories": {
     "egui": {
       "fork": "https://github.com/abdallah-shehawey/egui",
@@ -13,7 +13,7 @@
     "wordcraft": {
       "fork": "https://github.com/abdallah-shehawey/wordcraft",
       "branch": "codex/window-state-restoration",
-      "commit": "1027c473c81b28278436c9aaec934024d2ce5465",
+      "commit": "ab8740874008f6985636caf1d60c54a995f8daee",
       "pull_requests": [
         "https://github.com/storytold/wordcraft/pull/4369"
       ]
@@ -21,7 +21,7 @@
     "craft-launcher": {
       "fork": "https://github.com/abdallah-shehawey/craft-launcher",
       "branch": "codex/persistent-interface-size",
-      "commit": "fc4635fb7147de0324ed77f3e1f73717ca2ff8a1",
+      "commit": "19c3d67a4c0fc64a93d5f9834aa382710599f6a8",
       "pull_requests": [
         "https://github.com/storytold/craft-launcher/pull/904"
       ]
@@ -29,7 +29,7 @@
     "pdfcraft": {
       "fork": "https://github.com/abdallah-shehawey/pdfcraft",
       "branch": "codex/window-state-restoration",
-      "commit": "ce921b8d709137328d44fca514cc295a3caf0368",
+      "commit": "28a1be8f7ed31b9065ad15418779d94ea9d49f0d",
       "pull_requests": [
         "https://github.com/storytold/pdfcraft/pull/4760"
       ]
@@ -37,7 +37,7 @@
     "deckcraft": {
       "fork": "https://github.com/abdallah-shehawey/deckcraft",
       "branch": "codex/window-state-restoration",
-      "commit": "a8223ea42471c5d16cb2154a868f8b65e0dc49e7",
+      "commit": "19f9ffaf127297730ae3b8690e4e6ead761f2336",
       "pull_requests": [
         "https://github.com/storytold/deckcraft/pull/1407"
       ]
@@ -45,7 +45,7 @@
     "filmcraft": {
       "fork": "https://github.com/abdallah-shehawey/filmcraft",
       "branch": "codex/window-state-restoration",
-      "commit": "631f431ba8b26b9849f5d95fa7990275f74a83bf",
+      "commit": "ac3654069da2a488eefd7078dee8abe0853419ac",
       "pull_requests": [
         "https://github.com/storytold/filmcraft/pull/3348"
       ]
@@ -53,7 +53,7 @@
     "effectcraft": {
       "fork": "https://github.com/abdallah-shehawey/effectcraft",
       "branch": "codex/window-state-restoration",
-      "commit": "962fd8246bb8607fb3c5f6d0ce4f214bfd9aff56",
+      "commit": "34efb7632bc48c1703c529d0ab5d8532b9848409",
       "pull_requests": [
         "https://github.com/storytold/effectcraft/pull/2461"
       ]
@@ -61,7 +61,7 @@
     "gridcraft": {
       "fork": "https://github.com/abdallah-shehawey/gridcraft",
       "branch": "codex/window-state-restoration",
-      "commit": "07b5deb6d0bcbbfd30ad77f4320c7d2d6bcef265",
+      "commit": "35cb65f59a9dc48bacc01919a4cb96d2d693646e",
       "pull_requests": [
         "https://github.com/storytold/gridcraft/pull/2622"
       ]
@@ -69,7 +69,7 @@
     "designcraft": {
       "fork": "https://github.com/abdallah-shehawey/designcraft",
       "branch": "codex/window-state-restoration",
-      "commit": "fa407798569a3d9149df28ffa01aed25e5a37869",
+      "commit": "929b41651184950e3ccafed0c8bcdd2244d9a2e2",
       "pull_requests": [
         "https://github.com/storytold/designcraft/pull/1855"
       ]
@@ -77,7 +77,7 @@
     "cadcraft": {
       "fork": "https://github.com/abdallah-shehawey/cadcraft",
       "branch": "codex/window-state-restoration",
-      "commit": "38032016517313b23d9e6339dd10923be2f254ed",
+      "commit": "86175010c6b87ad5c26124ba0c2981bb4ac52299",
       "pull_requests": [
         "https://github.com/storytold/cadcraft/pull/2194"
       ]
@@ -85,7 +85,7 @@
     "photocraft": {
       "fork": "https://github.com/abdallah-shehawey/photocraft",
       "branch": "codex/window-state-restoration",
-      "commit": "0dbc92b009ef73252024432e6a96bc00d45341bb",
+      "commit": "3fa0c5911b2dc4bc41f3f1c0e4a71496dd0b675f",
       "pull_requests": [
         "https://github.com/storytold/photocraft/pull/9612"
       ]
@@ -93,7 +93,7 @@
     "soundcraft": {
       "fork": "https://github.com/abdallah-shehawey/soundcraft",
       "branch": "codex/window-state-restoration",
-      "commit": "3cfbb981df0d7017a2d00075c9e2b9e70773ccc7",
+      "commit": "639b087f3f61531022d523fd31b6d519eb9bf427",
       "pull_requests": [
         "https://github.com/storytold/soundcraft/pull/1108"
       ]
@@ -101,7 +101,7 @@
     "figcraft": {
       "fork": "https://github.com/abdallah-shehawey/figcraft",
       "branch": "codex/window-state-restoration",
-      "commit": "d45042b0c46e8a87e44e1acb7c0401e257d05bea",
+      "commit": "b52f058e00774944cc9401791646284715710b43",
       "pull_requests": [
         "https://github.com/storytold/figcraft/pull/1364"
       ]
@@ -109,7 +109,7 @@
     "vectorcraft": {
       "fork": "https://github.com/abdallah-shehawey/vectorcraft",
       "branch": "codex/window-state-restoration",
-      "commit": "e26d05d02e15c330a1b40c5a8cf3c2e0fbd926b6",
+      "commit": "c75b635e6032ad65e3088a70c659e1da90931e14",
       "pull_requests": [
         "https://github.com/storytold/vectorcraft/pull/4228"
       ]
@@ -117,7 +117,7 @@
     "lightcraft": {
       "fork": "https://github.com/abdallah-shehawey/lightcraft",
       "branch": "codex/persistent-interface-size",
-      "commit": "0928cd104029967cfd8e65db26f1671ee90cce3d",
+      "commit": "13d688896a45ca57b0fc026f6e5c2c35bd1199d9",
       "pull_requests": [
         "https://github.com/storytold/lightcraft/pull/3034"
       ]
